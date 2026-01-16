@@ -1,0 +1,9 @@
+[build]
+  base = "Ourblooms" # Set the base directory to the subdirectory where your app is located
+  command = "npm install && npm run build" # Install dependencies and build the project
+  publish = "dist" # Specify the directory where Vite outputs the built files
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
