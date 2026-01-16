@@ -1,16 +1,16 @@
 import styles from '../styles/Services.module.css'
 
-import sm1a from '../assets/servicesModule1/image-1.png'
-import sm1b from '../assets/servicesModule1/image-2.png'
-import sm1c from '../assets/servicesModule1/image-3.png'
+import sm1a from '../assets/servicesModule1/Image-1.png'
+import sm1b from '../assets/servicesModule1/Image-2.png'
+import sm1c from '../assets/servicesModule1/Image-3.png'
 
-import sm2a from '../assets/servicesModule2/image-1.png'
-import sm2b from '../assets/servicesModule2/image-2.png'
-import sm2c from '../assets/servicesModule2/image-3.png'
+import sm2a from '../assets/servicesModule2/Image-1.png'
+import sm2b from '../assets/servicesModule2/Image-2.png'
+import sm2c from '../assets/servicesModule2/Image-3.png'
 
-import sm3a from '../assets/servicesModule3/image-1.png'
-import sm3b from '../assets/servicesModule3/image-2.png'
-import sm3c from '../assets/servicesModule3/image-3.png'
+import sm3a from '../assets/servicesModule3/Image-1.png'
+import sm3b from '../assets/servicesModule3/Image-2.png'
+import sm3c from '../assets/servicesModule3/Image-3.png'
 function Services(){
     return(
         <>

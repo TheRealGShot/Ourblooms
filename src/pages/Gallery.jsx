@@ -1,8 +1,8 @@
 import styles from "../styles/Gallery.module.css"
 
 
-import g1 from "../assets/gallery/Image.png"
-import g2 from "../assets/gallery/image-0.png"
+import g1 from "../assets/gallery/image.png"
+import g2 from "../assets/gallery/Image-0.png"
 import g3 from "../assets/gallery/Image-1.png"
 import g4 from "../assets/gallery/Image-2.png"
 import g5 from "../assets/gallery/Image-3.png"
