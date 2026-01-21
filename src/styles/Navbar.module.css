@@ -10,3 +10,14 @@
     display:flex;
     gap:20px;
 }
+.textupdt{
+font-family: "Outfit", sans-serif;
+  font-optical-sizing:auto;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:2%;
+  line-height:140%;
+  color:#2C2825;
+  text-decoration: none;
+}

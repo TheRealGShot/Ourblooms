@@ -7,10 +7,10 @@ function Navbar() {
             <nav className={styles.navbar}>
                <Link to="/" className="display"> <p className="display"> Our Blooms </p> </Link>
                 <ul className={styles.ul}>
-                    <li className="caption1">
+                    <li className={styles.textupdt}>
                         <Link to="/gallery" >GALLERY</Link>
                     </li>
-                    <li className="caption1"><Link to="/about">ABOUT</Link></li>
+                    <li className={styles.textupdt}><Link to="/about">ABOUT</Link></li>
                     <li className="caption1">CONTACT</li>
                 </ul>
             </nav>
